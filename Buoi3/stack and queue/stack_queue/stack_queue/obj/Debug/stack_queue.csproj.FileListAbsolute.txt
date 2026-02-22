@@ -1,0 +1,8 @@
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\bin\Debug\stack_queue.exe.config
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\bin\Debug\stack_queue.exe
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\bin\Debug\stack_queue.pdb
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\obj\Debug\stack_queue.csproj.AssemblyReference.cache
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\obj\Debug\stack_queue.csproj.CoreCompileInputs.cache
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\obj\Debug\stack_queue.exe
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\obj\Debug\stack_queue.pdb
+C:\NDB\Extra\C#\stack and queue\stack_queue\stack_queue\obj\Debug\stack_queue.exe.config

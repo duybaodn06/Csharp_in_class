@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\bin\Debug\quicksort.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\bin\Debug\quicksort.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\bin\Debug\quicksort.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\obj\Debug\quicksort.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\obj\Debug\quicksort.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\obj\Debug\quicksort.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\obj\Debug\quicksort.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\quicksort\quicksort\obj\Debug\quicksort.exe.config

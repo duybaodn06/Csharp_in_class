@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timing_bubble", "timing_bubble\timing_bubble.csproj", "{3C119B11-D561-4F49-8285-8F856AA96F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C119B11-D561-4F49-8285-8F856AA96F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C119B11-D561-4F49-8285-8F856AA96F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C119B11-D561-4F49-8285-8F856AA96F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C119B11-D561-4F49-8285-8F856AA96F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB33399A-4B7D-4633-A14F-98797DB058CD}
+	EndGlobalSection
+EndGlobal

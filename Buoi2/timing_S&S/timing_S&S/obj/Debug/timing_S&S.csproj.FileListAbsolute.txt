@@ -1,0 +1,8 @@
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\bin\Debug\timing_S&S.exe.config
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\bin\Debug\timing_S&S.exe
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\bin\Debug\timing_S&S.pdb
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\obj\Debug\timing_S&S.csproj.AssemblyReference.cache
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\obj\Debug\timing_S&S.csproj.CoreCompileInputs.cache
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\obj\Debug\timing_S&S.exe
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\obj\Debug\timing_S&S.pdb
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\timing_S&S\timing_S&S\obj\Debug\timing_S&S.exe.config

@@ -1,0 +1,7 @@
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\index2\index2\bin\Debug\index2.exe.config
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\index2\index2\bin\Debug\index2.exe
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\index2\index2\bin\Debug\index2.pdb
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\index2\index2\obj\Debug\index2.csproj.AssemblyReference.cache
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\index2\index2\obj\Debug\index2.csproj.CoreCompileInputs.cache
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\index2\index2\obj\Debug\index2.exe
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi2\index2\index2\obj\Debug\index2.pdb

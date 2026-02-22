@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\bin\Debug\mergesort.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\bin\Debug\mergesort.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\bin\Debug\mergesort.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\obj\Debug\mergesort.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\obj\Debug\mergesort.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\obj\Debug\mergesort.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\obj\Debug\mergesort.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\mergesort\mergesort\obj\Debug\mergesort.exe.config

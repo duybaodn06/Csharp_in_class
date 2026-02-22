@@ -1,0 +1,8 @@
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\bin\Debug\copy.exe.config
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\bin\Debug\copy.exe
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\bin\Debug\copy.pdb
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\obj\Debug\copy.csproj.AssemblyReference.cache
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\obj\Debug\copy.csproj.CoreCompileInputs.cache
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\obj\Debug\copy.exe
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\obj\Debug\copy.pdb
+C:\NDB\Tài liệu học tập\IT\Giải Thuật\Buoi1\copy\copy\obj\Debug\copy.exe.config

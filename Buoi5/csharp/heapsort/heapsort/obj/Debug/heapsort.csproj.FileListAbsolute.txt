@@ -1,0 +1,7 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\heapsort\heapsort\bin\Debug\heapsort.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\heapsort\heapsort\bin\Debug\heapsort.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\heapsort\heapsort\bin\Debug\heapsort.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\heapsort\heapsort\obj\Debug\heapsort.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\heapsort\heapsort\obj\Debug\heapsort.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\heapsort\heapsort\obj\Debug\heapsort.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\heapsort\heapsort\obj\Debug\heapsort.pdb

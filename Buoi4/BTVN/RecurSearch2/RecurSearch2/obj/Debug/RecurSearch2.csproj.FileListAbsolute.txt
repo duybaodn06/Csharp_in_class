@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\bin\Debug\RecurSearch2.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\bin\Debug\RecurSearch2.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\bin\Debug\RecurSearch2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\obj\Debug\RecurSearch2.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\obj\Debug\RecurSearch2.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\obj\Debug\RecurSearch2.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\obj\Debug\RecurSearch2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\RecurSearch2\RecurSearch2\obj\Debug\RecurSearch2.exe.config

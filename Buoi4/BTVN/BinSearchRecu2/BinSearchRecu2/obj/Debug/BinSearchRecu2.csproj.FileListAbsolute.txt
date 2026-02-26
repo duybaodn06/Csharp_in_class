@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\bin\Debug\BinSearchRecu2.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\bin\Debug\BinSearchRecu2.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\bin\Debug\BinSearchRecu2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\obj\Debug\BinSearchRecu2.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\obj\Debug\BinSearchRecu2.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\obj\Debug\BinSearchRecu2.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\obj\Debug\BinSearchRecu2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTVN\BinSearchRecu2\BinSearchRecu2\obj\Debug\BinSearchRecu2.exe.config

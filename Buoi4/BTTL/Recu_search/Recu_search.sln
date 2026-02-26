@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recu_search", "Recu_search\Recu_search.csproj", "{53A74D00-B996-41BA-8AF2-3037F4791DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A74D00-B996-41BA-8AF2-3037F4791DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A74D00-B996-41BA-8AF2-3037F4791DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A74D00-B996-41BA-8AF2-3037F4791DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A74D00-B996-41BA-8AF2-3037F4791DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F224BEC8-58CA-459B-A661-4127E6A20F87}
+	EndGlobalSection
+EndGlobal

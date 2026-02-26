@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\bin\Debug\sent_search.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\bin\Debug\sent_search.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\bin\Debug\sent_search.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\obj\Debug\sent_search.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\obj\Debug\sent_search.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\obj\Debug\sent_search.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\obj\Debug\sent_search.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi4\BTTL\sent_search\sent_search\obj\Debug\sent_search.exe.config

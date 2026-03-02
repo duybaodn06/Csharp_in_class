@@ -44,47 +44,80 @@ namespace timing_bubble
         {
             for (int i = 0; i < ar.Length - 1; i++)
             {
-                bool swapped = false;
+                bool check = true;
                 for (int j = 0; j < ar.Length - i - 1; j++)
                 {
                     if (ar[j] > ar[j + 1])
                     {
-                        (ar[j], ar[j + 1]) = (ar[j + 1], ar[j]);
-                        swapped = true;
+                        int temp = ar[j];
+                        ar[j] = ar[j + 1];
+                        ar[j + 1] = temp;
+                        check = false;
                     }
                 }
-                if (!swapped) break;
+                if (check) break;
             }
         }
 
         static void Main(string[] args)
         {
-            //input
-            Console.Write("Nhap so phan tu cua mang: ");
-            int n = int.Parse(Console.ReadLine());
 
-            int times = 1000;
-            //tao mang random
-            int[] ar = new int[n];
+
+            int[] ar = new int[10000];
+            int[] ar2 = new int[10000];
+            int[] ar3 = new int[10000];
+            int times = 100;
+
             Random rnd = new Random();
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < 10000; i++)
             {
-                ar[i] = rnd.Next();
+                ar[i] = rnd.Next(1,1000);
+            }
+            for (int i = 0; i < 10000; i++)
+            {
+                ar2[i] = 10000 - i;
+            }
+            for (int i = 0; i < 10000; i++)
+            {
+                ar3[i] = i;
             }
 
-            //bat dau do thoi gian
+
+
             Timing t = new Timing();
-            t.startTime();
-            for (int i = 0; i < times; i++) 
+            
+            TimeSpan totalTime = new TimeSpan(0);
+            TimeSpan totalTime2 = new TimeSpan(0);
+            for (int i = 0; i < times; i++)
             {
-                //clone: O(N)
-                bubble_sort((int[])ar.Clone());
+                int[] tempArray = (int[])ar.Clone();
+                t.startTime();
+                bubble_sort(tempArray);
+                t.StopTime();
+                totalTime += t.Result();
+            }
+            for (int i = 0; i < times; i++)
+            {
+                int[] tempArray = (int[])ar2.Clone();
+                t.startTime();
+                bubble_sort(tempArray);
+                t.StopTime();
+                totalTime2 += t.Result();
+            }
+            t.startTime();
+            for (int i = 0; i < times; i++)
+            {
+                bubble_sort(ar3);
             }
             t.StopTime();
-            //ket thuc do thoi gian
+            double totalTime3 = t.Result().TotalMilliseconds;
 
-            //in ket qua ra man hinh
-            Console.WriteLine($"Bubble sort mang co {n} phan tu mat {t.Result().TotalMilliseconds / times} ms");
+
+            Console.WriteLine($"Bubble sort truong hop tot nhat: {totalTime3 / times} ms");
+            Console.WriteLine($"Bubble sort truong hop trung binh: {totalTime.TotalMilliseconds / times} ms");
+            Console.WriteLine($"Bubble sort truong hop te nhat: {totalTime2.TotalMilliseconds / times} ms");
+
         }
     }
 }
+

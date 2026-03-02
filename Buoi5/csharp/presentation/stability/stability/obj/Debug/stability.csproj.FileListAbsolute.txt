@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\bin\Debug\stability.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\bin\Debug\stability.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\bin\Debug\stability.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\obj\Debug\stability.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\obj\Debug\stability.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\obj\Debug\stability.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\obj\Debug\stability.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi5\csharp\presentation\stability\stability\obj\Debug\stability.exe.config

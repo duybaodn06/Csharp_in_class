@@ -88,6 +88,7 @@ namespace timing_bubble
             
             TimeSpan totalTime = new TimeSpan(0);
             TimeSpan totalTime2 = new TimeSpan(0);
+            TimeSpan totalTime3 = new TimeSpan(0);
             for (int i = 0; i < times; i++)
             {
                 int[] tempArray = (int[])ar.Clone();
@@ -104,16 +105,20 @@ namespace timing_bubble
                 t.StopTime();
                 totalTime2 += t.Result();
             }
-            t.startTime();
+            int count3 = 0;
             for (int i = 0; i < times; i++)
             {
+                t.startTime();
                 bubble_sort(ar3);
+                t.StopTime();
+                if (t.Result().TotalMilliseconds == 0) count3 ++;
+                else totalTime3 += t.Result();
             }
-            t.StopTime();
-            double totalTime3 = t.Result().TotalMilliseconds;
+            
+            
 
 
-            Console.WriteLine($"Bubble sort truong hop tot nhat: {totalTime3 / times} ms");
+            Console.WriteLine($"Bubble sort truong hop tot nhat: {totalTime3.TotalMilliseconds / (times - count3)} ms");
             Console.WriteLine($"Bubble sort truong hop trung binh: {totalTime.TotalMilliseconds / times} ms");
             Console.WriteLine($"Bubble sort truong hop te nhat: {totalTime2.TotalMilliseconds / times} ms");
 

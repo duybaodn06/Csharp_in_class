@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\bin\Debug\install.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\bin\Debug\install.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\bin\Debug\install.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\obj\Debug\install.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\obj\Debug\install.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\obj\Debug\install.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\obj\Debug\install.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi6\2_DSLKK\install\install\obj\Debug\install.exe.config

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\Giai_thuat\\Buoi6\\1_DSLKD\\install\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D379E42C-3E6D-4036-A5DC-1FAD5AB5DF63}|install\\install.csproj|c:\\ndb\\tai_lieu_hoc_tap\\it\\giai_thuat\\buoi6\\1_dslkd\\install\\install\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D379E42C-3E6D-4036-A5DC-1FAD5AB5DF63}|install\\install.csproj|solutionrelative:install\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\Giai_thuat\\Buoi6\\1_DSLKD\\install\\install\\Program.cs",
+              "RelativeDocumentMoniker": "install\\Program.cs",
+              "ToolTip": "C:\\NDB\\Tai_lieu_hoc_tap\\IT\\Giai_thuat\\Buoi6\\1_DSLKD\\install\\install\\Program.cs",
+              "RelativeToolTip": "install\\Program.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAA+wIcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T00:54:35.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

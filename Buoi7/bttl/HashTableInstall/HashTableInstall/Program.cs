@@ -8,39 +8,40 @@ using System.Collections;
 public class BucketHash
 {
     private const int SIZE = 10;
-
     LinkedList<string>[] data;
-
     public BucketHash()
     {
         data = new LinkedList<string>[SIZE];
         for (int i = 0; i < SIZE; i++)
+        {
             data[i] = new LinkedList<string>();
+        }
     }
     public int Hash(string s)
     {
-        //hash function
         long tot = 0;
-        char[] chararray;
-        chararray = s.ToCharArray();
-        for (int i = 0; i <= s.Length - 1; i++) tot += 37 * tot + (int)chararray[i];
-        tot = tot % data.GetUpperBound(0);
-        if (tot < 0) tot += data.GetUpperBound(0);
+        char[] arraylist = s.ToCharArray();
+        for (int i = 0; i < arraylist.Length;i++)
+        {
+            tot += 37 * tot + (int)arraylist[i];
+        }
+        tot %= SIZE - 1;
+        if (tot < 0) tot += (SIZE - 1);
         return (int)tot;
     }
-    public void Insert(string item)
+
+    public void Insert(string s)
     {
-        int hash_value = Hash(item);
-        if (!data[hash_value].Contains(item))
-            data[hash_value].AddLast(item);
+        int hash_value = Hash(s);
+        if (!data[hash_value].Contains(s)) data[hash_value].AddLast(s);
     }
-    public void Remove(string item)
+    
+    public void Remove(string s)
     {
-        int hash_value = Hash(item);
-        if (data[hash_value].Contains(item)) data[hash_value].Remove(item);
+        int hash_value = Hash(s);
+        if (data[hash_value].Contains(s)) data[hash_value].Remove(s);
     }
 }
-
 
 
 
@@ -50,8 +51,7 @@ namespace HashTableInstall
     {
         static void Main(string[] args)
         {
-            string a = "Minh";
-            Console.WriteLine(new BucketHash().Hash(a));
+            
 
         }
     }

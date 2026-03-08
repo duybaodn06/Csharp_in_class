@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\bin\Debug\Bai2.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\bin\Debug\Bai2.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\bin\Debug\Bai2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\obj\Debug\Bai2.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\obj\Debug\Bai2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi8\BTVN\Bai2\Bai2\obj\Debug\Bai2.exe.config

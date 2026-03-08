@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\bin\Debug\Test_hashtable.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\bin\Debug\Test_hashtable.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\bin\Debug\Test_hashtable.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\obj\Debug\Test_hashtable.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\obj\Debug\Test_hashtable.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\obj\Debug\Test_hashtable.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\obj\Debug\Test_hashtable.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\New folder\Test_hashtable\Test_hashtable\obj\Debug\Test_hashtable.exe.config

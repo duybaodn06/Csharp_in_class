@@ -5,3 +5,4 @@ C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\HashTableInstall\HashTableInsta
 C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\HashTableInstall\HashTableInstall\obj\Debug\HashTableInstall.csproj.CoreCompileInputs.cache
 C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\HashTableInstall\HashTableInstall\obj\Debug\HashTableInstall.exe
 C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\HashTableInstall\HashTableInstall\obj\Debug\HashTableInstall.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi7\bttl\HashTableInstall\HashTableInstall\obj\Debug\HashTableInstall.exe.config

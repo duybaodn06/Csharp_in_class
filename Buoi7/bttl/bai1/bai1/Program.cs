@@ -12,28 +12,24 @@ public class User_Phone : DictionaryBase
 {
     public void Add(string name, string phone)
     {
-        this.InnerHashtable.Add(name, phone);
+        this.Dictionary[name] = phone;
     }
     public string SearchByName(string name)
     {
-        foreach (DictionaryEntry x in this.InnerHashtable)
+        foreach (DictionaryEntry x in this.Dictionary)
         {
             if (x.Key.ToString() == name) return x.Value.ToString();
         }
         return null;
     }
+
     public string SearchByPhone(string phone)
     {
-        foreach (DictionaryEntry x in this.InnerHashtable)
+        foreach (DictionaryEntry x in this.Dictionary)
         {
             if (x.Value.ToString() == phone) return x.Key.ToString();
         }
         return null;
-    }
-
-    public void Remove(string name)
-    {
-        this.InnerHashtable.Remove(name);
     }
 }
 

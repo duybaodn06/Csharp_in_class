@@ -1,0 +1,8 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\obj\Debug\Matrix1.csproj.AssemblyReference.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\obj\Debug\Matrix1.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\bin\Debug\Matrix1.exe.config
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\bin\Debug\Matrix1.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\bin\Debug\Matrix1.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\obj\Debug\Matrix1.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\obj\Debug\Matrix1.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Matrix1\Matrix1\obj\Debug\Matrix1.exe.config

@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\bin\Debug\net9.0\install2.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\bin\Debug\net9.0\install2.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\bin\Debug\net9.0\install2.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\bin\Debug\net9.0\install2.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\bin\Debug\net9.0\install2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\refint\install2.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\install2.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install2\obj\Debug\net9.0\ref\install2.dll

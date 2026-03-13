@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\bin\Debug\net8.0\Install.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\bin\Debug\net8.0\Install.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\bin\Debug\net8.0\Install.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\bin\Debug\net8.0\Install.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\bin\Debug\net8.0\Install.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\refint\Install.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\Install.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\Install\Install\obj\Debug\net8.0\ref\Install.dll

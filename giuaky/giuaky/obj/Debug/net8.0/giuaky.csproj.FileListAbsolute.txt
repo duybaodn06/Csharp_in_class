@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\bin\Debug\net8.0\giuaky.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\bin\Debug\net8.0\giuaky.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\bin\Debug\net8.0\giuaky.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\bin\Debug\net8.0\giuaky.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\bin\Debug\net8.0\giuaky.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\refint\giuaky.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\giuaky.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\giuaky\giuaky\obj\Debug\net8.0\ref\giuaky.dll

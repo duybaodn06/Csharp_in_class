@@ -1,0 +1,15 @@
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\bin\Debug\net8.0\install_withoutnet.exe
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\bin\Debug\net8.0\install_withoutnet.deps.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\bin\Debug\net8.0\install_withoutnet.runtimeconfig.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\bin\Debug\net8.0\install_withoutnet.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\bin\Debug\net8.0\install_withoutnet.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.AssemblyInfoInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.AssemblyInfo.cs
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.csproj.CoreCompileInputs.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.sourcelink.json
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\refint\install_withoutnet.dll
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.pdb
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\install_withoutnet.genruntimeconfig.cache
+C:\NDB\Tai_lieu_hoc_tap\IT\Giai_thuat\Buoi9\BTTL\install_withoutnet\install_withoutnet\obj\Debug\net8.0\ref\install_withoutnet.dll
